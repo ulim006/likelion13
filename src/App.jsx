@@ -20,8 +20,8 @@ export default function App() { //React 컴포넌트를 내보내는 코드
     <main className="main">
         <section id="about" className="section">
             <h2>안녕하세요!</h2>
-            <p>만나서 반갑습니다. 저는 미래융합학부1 재학중인 25학번 오유림입니다.</p>
-            <p>함께 즐거운 동아리 생활 보내봐요 ^^</p>
+            <p>만나서 반갑습니다! 저는 미래융합학부1 재학중인 25학번 오유림입니다!</p>
+            <p>열심히 공부중이니, 최선을 다해 힘이 되겠습니다!</p>
             <img 
             className="img" 
             src="https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/eViY/image/is3UFbmo7Gwuiln43EznmVZFwXo.jpg" 
@@ -33,10 +33,10 @@ export default function App() { //React 컴포넌트를 내보내는 코드
             
             <h3>취미</h3>
             <ul>
-                <li>농구 보기</li>
-                <li>음악 감상</li>
-                <li>기타 치기</li>
-                <li>코딩 ^^</li>
+                <li>먹방 보기</li>
+                <li>음악 듣기</li>
+                <li>계획세우기</li>
+                <li>코딩 하기기</li>
             </ul>
             <img 
             className="img" 
@@ -45,9 +45,9 @@ export default function App() { //React 컴포넌트를 내보내는 코드
 
             <h3>좋아하는 음식 순위</h3>
             <ol>
-                <li>타코</li>
-                <li>떡볶이</li>
-                <li>햄버거</li>
+                <li>마라탕</li>
+                <li>노브랜드버거</li>
+                <li>파리바게트 빵</li>
             </ol>
             <img 
             className="img" 
@@ -57,8 +57,8 @@ export default function App() { //React 컴포넌트를 내보내는 코드
 
         <section id="contact" className="section">
             <h2>연락하기</h2>
-            <p>이메일: skulikelion@example.com</p>
-            <p>전화번호: 010-1234-5678</p>
+            <p>이메일: ulim006@skuniv.ac.kr</p>
+            <p>전화번호: 010-8837-32250</p>
         </section>
     </main>
 
